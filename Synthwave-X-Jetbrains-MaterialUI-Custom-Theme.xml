@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>1</id>
+  <editorColorsScheme>Synthwave X JetBrains</editorColorsScheme>
+  <dark>true</dark>
+  <name>Synthwave X JetBrains</name>
+  <colors>
+    <color id="background" value="241b2fff"/>
+    <color id="foreground" value="bbbbbbff"/>
+    <color id="text" value="bbbbbbff"/>
+    <color id="highlight" value="000000ff"/>
+    <color id="selectionBackground" value="000000ff"/>
+    <color id="selectionForeground" value="bbbbbbff"/>
+    <color id="button" value="000000ff"/>
+    <color id="secondaryBackground" value="241b2fff"/>
+    <color id="disabled" value="474747ff"/>
+    <color id="contrast" value="000000ff"/>
+    <color id="tableSelected" value="541f73ff"/>
+    <color id="secondBorder" value="241b2fff"/>
+    <color id="treeSelection" value="000000c0"/>
+    <color id="notifications" value="541f73ff"/>
+    <color id="accent" value="d21e85ff"/>
+    <color id="excluded" value="36234eff"/>
+  </colors>
+  <themeId>1</themeId>
+</mtTheme>
