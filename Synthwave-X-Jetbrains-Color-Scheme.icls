@@ -1,10 +1,10 @@
 <scheme name="Synthwave X Jetbrains" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-01-11T20:54:46</property>
+    <property name="created">2020-01-12T23:41:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-11T20:54:57</property>
+    <property name="modified">2020-01-12T23:42:06</property>
     <property name="originalScheme">Synthwave X Jetbrains</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -18,17 +18,19 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="562d6f" />
     <option name="ANNOTATIONS_COLOR" value="7c7c7c" />
     <option name="CARET_ROW_COLOR" value="36234e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="200933" />
     <option name="DELETED_LINES_COLOR" value="171520" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="3c3f41" />
     <option name="GUTTER_BACKGROUND" value="200933" />
@@ -77,6 +79,12 @@
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
         <option name="BACKGROUND" value="2d172d" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="d21e85" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
