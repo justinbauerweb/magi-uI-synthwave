@@ -1,27 +1,29 @@
 # Synthwave-x-Flouromachine - Jetbrains (port)
-I fell in love with the Synthwave-X-Fluoromachine theme available for VSCode (https://github.com/webrender/synthwave-x-fluoromachine) and wasn't able to find an equivalent theme available for JetBrains products.  As a result I attempted to port the theme over to JetBrains (IDEA Specifically)
+Some time ago I fell in love with the Synthwave-X-Fluoromachine theme available for **VSCode** (https://github.com/webrender/synthwave-x-fluoromachine). I wasn't able to find an equivalent theme available for JetBrains products. As a result I have ported the theme over to JetBrains (IDEA Specifically, but should work with most if not all flavors of Jetbrains products)
 
-## Features
-- Custom JetBrains Color Theme (Tested with IDEA, Specifically Lua, TypeScript, Javascript, Html)
-- Custom Material Theme UI... Theme (Required Material Theme UI: https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- Custom Background to match the themes to somewhat provide the same background experience as the VSCode Theme
+## Notes
+- This theme has been Tested with IDEA using the following languages:
+  - Lua
+  - TypeScript
+  - Javascript
+  - HTML
+  - CSS
+  - JSON
+- I have not tested it with any other languages, but I will be adding support for more languages as I use them.
+- I used to also support Material Theme UI and custom colors there, I have since stopped using Material Theme UI as it feels bloated and is no longer 100% freeware.
+- If you are looking for a UI Theme that goes well with this theme, check out the [Prpl Theme](https://plugins.jetbrains.com/plugin/12861-prpl-theme)
 
 ## Installation Instructions (Manual)
 ![](screenshots/import.png?raw=true)
 - Simply [download](https://github.com/magimetal/Synthwave-X-Jetbrains/releases/download/1.2/Magi-Synth_Flouro-Jetrains-1.2.zip) or clone this repo
-- Open Settings in your Jetbrains Editor (Ctrl + Alt + S)
-- Navigate to Editor > Color Scheme
-- Select the dropdown list and select Import Scheme
+- Open Settings in your Jetbrains Editor (`Ctrl + Alt + S`)
+- Navigate to `Editor` > `Color Scheme`
+- Select the dropdown list and select `Import Scheme`
 - Select the `Magi-Synth_Flouro.icls` file mentioned above
 - DONE!
 
-## Optional Installation (Material Theme UI Matching Config)
-- (To be updated)
-- Import the provided `Magi-Synth_Flouro-MaterialUI-Custom-Theme.xml` file into the Material Theme UI plugin
-- Have your Jetbrains IDE match the editor theme!
-
 ## Screenshots
-
+*Please note that the screenshots below are not the most up to date, I will be updating them soon*
 ### Main theme with background and Material Theme UI
 ![](screenshots/main_background.jpg?raw=true)
 
@@ -36,6 +38,3 @@ I fell in love with the Synthwave-X-Fluoromachine theme available for VSCode (ht
 
 ### Breadcrumb Support
 ![](screenshots/breadcrumbs.jpg?raw=true)
-
-### How-To Correctly set the background image
-![](screenshots/setting_background.jpg?raw=true)
