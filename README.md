@@ -13,6 +13,26 @@ Some time ago I fell in love with the Synthwave-X-Fluoromachine theme available 
 - I used to also support Material Theme UI and custom colors there, I have since stopped using Material Theme UI as it feels bloated and is no longer 100% freeware.
 - If you are looking for a UI Theme that goes well with this theme, check out the [Prpl Theme](https://plugins.jetbrains.com/plugin/12861-prpl-theme)
 
+## Colors
+### Purples
+- #1D042D
+- #200933
+- #562d6f
+- #9963ff
+### Pinks
+- #b059b1
+- #ca057a
+- #8d4457
+### Grays
+- #111111
+- #3c3f41
+- #bbbbbb
+### Other Colors
+- #ffffff - White
+- #f1bf02 - Yellow
+- #d1243b - Red
+- #55c6e1 - Blue
+
 ## Installation Instructions (Manual)
 ![](screenshots/import.png?raw=true)
 - Simply [download](https://github.com/magimetal/Synthwave-X-Jetbrains/releases/download/1.2/Magi-Synth_Flouro-Jetrains-1.2.zip) or clone this repo
