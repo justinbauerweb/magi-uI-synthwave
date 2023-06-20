@@ -1,60 +1,101 @@
-# Synthwave-x-Flouromachine - Jetbrains (port)
-Some time ago I fell in love with the Synthwave-X-Fluoromachine theme available for **VSCode** (https://github.com/webrender/synthwave-x-fluoromachine). I wasn't able to find an equivalent theme available for JetBrains products. As a result I have ported the theme over to JetBrains (IDEA Specifically, but should work with most if not all flavors of Jetbrains products)
+# Magi-UI:Synthwave Jetbrains Color Scheme
+A long time ago when I was still using VSCode, I fell in love with the "Synthwave-X-Fluoromachine" color scheme (https://github.com/webrender/synthwave-x-fluoromachine) that was available for VSCode. I have since moved to Jetbrains products and have been unable to find a similar theme for Jetbrains products. As a result I have ported the theme over to Jetbrains products.
 
-## Notes
-- This theme has been Tested with IDEA using the following languages:
-  - Lua
-  - TypeScript
-  - Javascript
-  - HTML
-  - CSS
-  - JSON
-- I have not tested it with any other languages, but I will be adding support for more languages as I use them.
-- I used to also support Material Theme UI and custom colors there, I have since stopped using Material Theme UI as it feels bloated and is no longer 100% freeware.
-- If you are looking for a UI Theme that goes well with this theme, check out the [Prpl Theme](https://plugins.jetbrains.com/plugin/12861-prpl-theme)
+Initially this was a 1:1 port but over time I have made a number of changes and adjustments as well as removed a lot of duplicate colors that are closely related in shade. I have also added support for a number of languages that I use on a daily basis and have hand-picked colors that I feel work well with the theme for each of them.
 
+----
+![](screenshots/1-ide.png?raw=true)
+
+----
 ## Colors
-### Purples
-- #1D042D
-- #200933
-- #562d6f
-- #9963ff
-### Pinks
-- #b059b1
-- #ca057a
-- #8d4457
-### Grays
-- #111111
-- #3c3f41
-- #bbbbbb
-### Other Colors
-- #ffffff - White
-- #f1bf02 - Yellow
-- #d1243b - Red
-- #55c6e1 - Blue
+![](screenshots/colors.png?raw=true)
 
+----
 ## Installation Instructions (Manual)
-![](screenshots/import.png?raw=true)
-- Simply [download](https://github.com/magimetal/Synthwave-X-Jetbrains/releases/download/1.2/Magi-Synth_Flouro-Jetrains-1.2.zip) or clone this repo
+- Simply download or clone this repo
 - Open Settings in your Jetbrains Editor (`Ctrl + Alt + S`)
 - Navigate to `Editor` > `Color Scheme`
 - Select the dropdown list and select `Import Scheme`
-- Select the `Magi-Synth_Flouro.icls` file mentioned above
+- Select the `Magi_UI_Synthwave.icls` file mentioned above
 - DONE!
 
-## Screenshots
-*Please note that the screenshots below are not the most up to date, I will be updating them soon*
-### Main theme with background and Material Theme UI
-![](screenshots/main_background.jpg?raw=true)
+----
+## Custom-Language Support
+- This theme has been Tested with IDEA using the following languages:
+  - Angular Templates
+  - CSS
+  - HTML
+  - Javascript
+  - JSON
+  - LUA
+  - Markdown
+  - RegExp
+  - Sass/SCSS
+  - Shell Script
+  - TypeScript
+  - XML
 
-### Obvious Error Handling
-![](screenshots/obvious_error_text.jpg?raw=true)
+----
+## Screenshots
+### TypeScript Support
+
+----
+![](screenshots/2-typescript.png?raw=true)
+
+
+### Easy To See Carets
+
+----
+![](screenshots/3-carets.png?raw=true)
+
+
+### Easy To See Highlighting
+
+----
+![](screenshots/4-highlight.png?raw=true)
 
 ### Tooltip Support
-![](screenshots/tooltips.jpg?raw=true)
+----
+![](screenshots/5-tooltip.png?raw=true)
 
-### VCS Support
-![](screenshots/vcs.jpg?raw=true)
 
-### Breadcrumb Support
-![](screenshots/breadcrumbs.jpg?raw=true)
+### Autofill Support
+
+----
+![](screenshots/6-autofill.png?raw=true)
+
+
+### Markdown Support
+
+----
+![](screenshots/7-markdown.png?raw=true)
+
+
+### SCSS Support
+
+----
+![](screenshots/8-scss.png?raw=true)
+
+
+### HTML Support
+
+----
+![](screenshots/9-html.png?raw=true)
+
+
+### Easy To See Errors
+
+----
+![](screenshots/10-error.png?raw=true)
+
+
+### Easy To Understand Diffs / History
+
+----
+![](screenshots/11-diff.png?raw=true)
+
+
+### Easy To See Search Highlights
+
+----
+![](screenshots/12-search.png?raw=true)
