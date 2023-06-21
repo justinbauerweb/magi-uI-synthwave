@@ -4,11 +4,11 @@ A long time ago when I was still using VSCode, I fell in love with the "Synthwav
 Initially this was a 1:1 port but over time I have made a number of changes and adjustments as well as removed a lot of duplicate colors that are closely related in shade. I have also added support for a number of languages that I use on a daily basis and have hand-picked colors that I feel work well with the theme for each of them.
 
 ----
-![](screenshots/1-ide.png?raw=true)
+![](readme/1-ide.png?raw=true)
 
 ----
 ## Colors
-![](screenshots/colors.png?raw=true)
+![](readme/colors.png?raw=true)
 
 ----
 ## Installation Instructions (Manual)
@@ -22,80 +22,80 @@ Initially this was a 1:1 port but over time I have made a number of changes and 
 ----
 ## Custom-Language Support
 - This theme has been Tested with IDEA using the following languages:
-  - Angular Templates
-  - CSS
-  - HTML
-  - Javascript
-  - JSON
-  - LUA
-  - Markdown
-  - RegExp
-  - Sass/SCSS
-  - Shell Script
-  - TypeScript
-  - XML
+    - Angular Templates
+    - CSS
+    - HTML
+    - Javascript
+    - JSON
+    - LUA
+    - Markdown
+    - RegExp
+    - Sass/SCSS
+    - Shell Script
+    - TypeScript
+    - XML
 
 ----
 ## Screenshots
 ### TypeScript Support
 
 ----
-![](screenshots/2-typescript.png?raw=true)
+![](readme/2-typescript.png?raw=true)
 
 
 ### Easy To See Carets
 
 ----
-![](screenshots/3-carets.png?raw=true)
+![](readme/3-carets.png?raw=true)
 
 
 ### Easy To See Highlighting
 
 ----
-![](screenshots/4-highlight.png?raw=true)
+![](readme/4-highlight.png?raw=true)
 
 ### Tooltip Support
 ----
-![](screenshots/5-tooltip.png?raw=true)
+![](readme/5-tooltip.png?raw=true)
 
 
 ### Autofill Support
 
 ----
-![](screenshots/6-autofill.png?raw=true)
+![](readme/6-autofill.png?raw=true)
 
 
 ### Markdown Support
 
 ----
-![](screenshots/7-markdown.png?raw=true)
+![](readme/7-markdown.png?raw=true)
 
 
 ### SCSS Support
 
 ----
-![](screenshots/8-scss.png?raw=true)
+![](readme/8-scss.png?raw=true)
 
 
 ### HTML Support
 
 ----
-![](screenshots/9-html.png?raw=true)
+![](readme/9-html.png?raw=true)
 
 
 ### Easy To See Errors
 
 ----
-![](screenshots/10-error.png?raw=true)
+![](readme/10-error.png?raw=true)
 
 
 ### Easy To Understand Diffs / History
 
 ----
-![](screenshots/11-diff.png?raw=true)
+![](readme/11-diff.png?raw=true)
 
 
 ### Easy To See Search Highlights
 
 ----
-![](screenshots/12-search.png?raw=true)
+![](readme/12-search.png?raw=true)

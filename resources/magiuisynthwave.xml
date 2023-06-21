@@ -1,11 +1,11 @@
-<scheme name="Magi-UI:Synthwave" version="142" parent_scheme="Darcula">
+<scheme name="Magi-ui-synthwave" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-06-20T02:58:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.2.0.0</property>
     <property name="modified">2023-06-20T02:58:12</property>
-    <property name="originalScheme">Magi-UI:Synthwave</property>
+    <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="16" />

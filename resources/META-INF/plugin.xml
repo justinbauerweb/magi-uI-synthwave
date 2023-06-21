@@ -1,0 +1,39 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+  <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+  <id>magi-ui-synthwave</id>
+  <version>1.0.0</version>
+
+  <!-- Public plugin name should be written in Title Case.
+       Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+  <name>Magi Ui Synthwave</name>
+  <category>UI</category>
+
+  <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+  <vendor email="justinbauer.web@gmail.com" url="https://www.justinbauer.link">Justin Bauer</vendor>
+
+  <idea-version since-build="222" until-build="232.*"/>
+
+  <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+       Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+       Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+  <description><![CDATA[
+    A long time ago when I was still using VSCode, I fell in love with the "Synthwave-X-Fluoromachine" color scheme (https://github.com/webrender/synthwave-x-fluoromachine) that was available for VSCode. I have since moved to Jetbrains products and have been unable to find a similar theme for Jetbrains products. As a result I have ported the theme over to Jetbrains products.
+
+    Initially this was a 1:1 port but over time I have made a number of changes and adjustments as well as removed a lot of duplicate colors that are closely related in shade. I have also added support for a number of languages that I use on a daily basis and have hand-picked colors that I feel work well with the theme for each of them.
+  ]]></description>
+
+  <!-- Short summary of new features and bugfixes in the latest plugin version.
+       Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+  <change-notes><![CDATA[
+    Initial release of the theme.
+  ]]></change-notes>
+
+  <!-- Product and plugin compatibility requirements.
+       Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="magi-ui-synthwave" path="/theme/magiuisynthwave.theme.json"/>
+  </extensions>
+</idea-plugin>

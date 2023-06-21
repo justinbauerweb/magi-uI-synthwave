@@ -1,0 +1,14 @@
+{
+  "name": "MagiUI: Synthwave",
+  "author": "Justin Bauer",
+  "dark": true,
+  "editorScheme": "/magiuisynthwave.xml",
+
+  "colors": {
+    "primaryRed": "#821010"
+  },
+
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
