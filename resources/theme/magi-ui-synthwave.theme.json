@@ -32,7 +32,7 @@
   },
 
   "background": {
-    "image": "/magi-ui-synthwave.jpg",
+    "image": "/theme/magi-ui-synthwave.jpg",
     "transparency": 25,
     "fill": "plain",
     "anchor": "middle_left"
