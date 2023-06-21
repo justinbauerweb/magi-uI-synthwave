@@ -1,4 +1,4 @@
-# Magi-UI:Synthwave Jetbrains Color Scheme
+# Magi UI - Synthwave | Jetbrains Color Scheme
 A long time ago when I was still using VSCode, I fell in love with the "Synthwave-X-Fluoromachine" color scheme (https://github.com/webrender/synthwave-x-fluoromachine) that was available for VSCode. I have since moved to Jetbrains products and have been unable to find a similar theme for Jetbrains products. As a result I have ported the theme over to Jetbrains products.
 
 Initially this was a 1:1 port but over time I have made a number of changes and adjustments as well as removed a lot of duplicate colors that are closely related in shade. I have also added support for a number of languages that I use on a daily basis and have hand-picked colors that I feel work well with the theme for each of them.

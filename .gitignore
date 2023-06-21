@@ -1,2 +1,3 @@
 out
-*.jar
+*.vscode
+*.idea

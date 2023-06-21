@@ -34,6 +34,6 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="magi-ui-synthwave" path="/theme/magiuisynthwave.theme.json"/>
+    <themeProvider id="magi-ui-synthwave" path="/theme/magi-ui-synthwave.theme.json"/>
   </extensions>
 </idea-plugin>
