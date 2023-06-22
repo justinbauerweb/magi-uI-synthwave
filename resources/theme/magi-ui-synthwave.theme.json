@@ -29,12 +29,5 @@
       "foreground": "pure-white",
       "separatorColor": "purple-lavender"
     }
-  },
-
-  "background": {
-    "image": "/theme/magi-ui-synthwave.jpg",
-    "transparency": 25,
-    "fill": "plain",
-    "anchor": "middle_left"
   }
 }
